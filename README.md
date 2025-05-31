@@ -3,6 +3,7 @@
 **BusyBuy 2** is a scalable, full-stack e-commerce web application built with the MERN stack. This version enhances frontend state management by integrating **Redux Toolkit** for better performance, cleaner architecture, and maintainable global state. The backend remains the same as BusyBuy 1, providing robust authentication, cart management, and order handling via a secure REST API.
 
 ---
+<img width="960" alt="P2" src="https://github.com/user-attachments/assets/345f13a0-70c3-496b-b215-6f63f97510dd" />
 
 ## 🚀 Project Highlights
 
