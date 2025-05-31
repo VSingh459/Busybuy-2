@@ -1,0 +1,10 @@
+# Ignore node_modules from both frontend and backend
+photofolio/node_modules/
+server/node_modules/
+
+# Ignore logs and environment files
+*.log
+.env
+
+# Ignore build folder (optional, if React build artifacts shouldn't be pushed)
+photofolio/build/

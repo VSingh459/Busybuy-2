@@ -1,0 +1,94 @@
+
+.pp{
+    width: 250px;
+    height: 350px;
+    border-radius: 20px;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.15);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    left: 320px;
+    
+}
+
+#prodIcon{
+    width: 150px;
+    height: 150px;
+}
+
+#name{
+    font-size: large;
+    font-weight: 600;
+    position: relative;
+    left: 20px;
+}
+
+#price{
+    font-size: larger;
+    font-weight: 600;
+}
+
+#pipo{
+    width: 150px;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    background-color: #7064e5;
+}
+
+#pipo:hover{
+    background-color: white;
+    color:#7064e5;
+    border: 1px solid #7064e5;
+}
+
+#red{
+    width: 150px;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    background-color: red;
+
+}
+
+#aa{
+    width: 20px;
+    height: 20px;
+}
+
+#mm{
+    width: 20px;
+    height: 20px;
+}
+
+#imo{
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    gap: 5px;
+
+}
+
+#paral{
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    gap: 10px;
+}
+
+#qu{
+    font-size:larger;
+    font-weight: 600;
+}
+
+#bA{
+    border: none;
+}
+
+#qM{
+    border: none;
+}
+
